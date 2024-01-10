@@ -1,6 +1,11 @@
-<!-- ### Hi there 👋 -->
+<!-- ### Hi there 👋 
 <p align="center">
   <img alt="Hello world, I'm elledevelope" src="https://lh3.googleusercontent.com/pw/ABLVV85Wvx0IJh9cFu8Ncl2nvLxPu4ID0sPU9axMvfxZdLUYI5lT0ATqD6K8QwthZPsJc75prGqXzgHx77Je5Eff3L4CXEXFJ5S5NmWNUx2uix4lihBKkZRHS-jErgX2v0e91gT9MmXujGULC05ji_wHgxkegWNAE05blSU9Intko4y7WC1a1TaIM6kTWa5qXA1b7wUYaIACpedKfQETWs0avURhTmd1xliix-iIm00Jn7VEwQ8KXOprbRnx3InoYTWfnOZlTbatXbkkYSTi3UNyizl_n22SKER7kqdwp-D6g5F0Bvc2wPWvtGOqPb4XeSygPUTEAhABFd0PMXIRQikxioankmQ5DupEdG_Nbo_Q_GmF0G0sJjMZTz8783bq9o5HFVDedffZCTMHwEyGmoiH1zeNm5OUSMZoj8PUyBf_s7HMaqdNYJ01JGxnyuc-kZoll9ma8L68PcQN0xDiF43rRKYpRhjvWdmf6x8vik2ND2Vhy6orpLcJ02BvWR_6W4YEdvidLHzV9qPqbOKwdGEehcEUiwD0gbyjB6x5EG7QpnNTie1eygk4gh-Bqdq2MgssprF2kbpPcz194w9QytlNlVZvDHRsQbirEcgZTAh0tS_Nugz4yzuNW5pmwxig78pqte8Rw8PcitHH2CH98Z267twf-YbzidWtP7LChqZw79WBvwjqROyxKUz29rnniqUl5AzgBVwoi1x-5aJTsqdhraQbnMQUQvFPBEKelg4AH-2mEimOuFSrG0Z5qLcLJd-vDOEY0kRhcjsqnJ50Fafo2u2lkYNzldWCDNOru87Dv7XEk2e9ICg9ihvtJATelrDaORTcCosP7XCqDCLWsRGDNmRBRPvCnf39H-3N9CFH-_vTiZsU3scS_Bx3JMPZLtObDbi-l5ZbQe-C52WRbDPws3rlsQoceF_9et5SC3dnhekIaTLcMZGmrZwedfKh33UJr3C3L9sxSA=w464-h56-s-no?authuser=2" />
+</p>
+
+-->
+<p align="center">
+  <img alt="Hello world, I'm elledevelope" src="/assets/img/hello.gif" />
 </p>
 
 
