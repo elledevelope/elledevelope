@@ -27,7 +27,7 @@ This immersive experience covered a broad spectrum of coding, ranging from front
 
 ## What I'm Learning 🚀
 
-I'm diving deep into the world of modern web technologies, honing my skills in:
+I'm diving deep into the world of modern web technologies, sharpening my skills in:
 
 - **React:** Building dynamic and interactive user interfaces.
 - **React Native:** Crafting cross-platform mobile applications.
@@ -38,9 +38,7 @@ I'm diving deep into the world of modern web technologies, honing my skills in:
 - **Languages:** JavaScript, TypeScript, PHP.
 - **Frameworks:** React, React Native, Symfony.
 
-## Currently Exploring 🌍
-
-Apart from coding, I'm fascinated by:
+## Apart from coding, I'm fascinated by 🎨🌍🤖:
 
 - **UX/UI Design:** Exploring the art and science of creating seamless and engaging user experiences.
 - **Environmental Sustainability:** Investigating how technology can contribute to a more sustainable and eco-friendly world.
