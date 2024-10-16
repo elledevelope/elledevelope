@@ -9,7 +9,7 @@
 ```yaml
 ## About Me 🌐
 
-Salut! I'm @elledevelope, a passionate woman developer based in France 🇫🇷. 
+Salut! I'm @elledevelope, a passionate girl developer based in France 🇫🇷. 
 
 
 ## My Tech Stack 💻
